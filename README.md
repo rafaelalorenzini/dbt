@@ -18,4 +18,4 @@ Try running the following commands:
 
 - Source - Redshift
 - Pipeline:
-![alt text](https://raw.githubusercontent.com/rafaelalorenzini/dbt/main/Pipeline%20dbt.png)
+![alt text](https://github.com/rafaelalorenzini/dbt/blob/main/Pipeline%20dbt.png?raw=true)
